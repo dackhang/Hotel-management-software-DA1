@@ -1,1 +1,1 @@
-Phần mềm quản lý khách sạn đồ án 1 
+Phần mềm quản lý khách sạn cơ bản
