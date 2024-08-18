@@ -1,1 +1,1 @@
-Phần mềm quản lý khách sạn cơ bản
+- Phần mềm quản lý khách sạn cơ bản
