@@ -1,0 +1,87 @@
+D:\QLKS\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+D:\QLKS\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe
+D:\QLKS\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.pdb
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.AssemblyReference.cache
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_connect.resources
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_khachhang.resources
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_main.resources
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.Properties.Resources.resources
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.GenerateResource.cache
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CoreCompileInputs.cache
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.exe
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.pdb
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_phong.resources
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_dichvu.resources
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_datphong.resources
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_sudungphong.resources
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_thanhtoan.resources
+D:\QLKS\QLKhachSan\QLKhachSan\bin\Debug\EPPlus.dll
+D:\QLKS\QLKhachSan\QLKhachSan\bin\Debug\EPPlus.Interfaces.dll
+D:\QLKS\QLKhachSan\QLKhachSan\bin\Debug\EPPlus.System.Drawing.dll
+D:\QLKS\QLKhachSan\QLKhachSan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QLKS\QLKhachSan\QLKhachSan\bin\Debug\System.ComponentModel.Annotations.dll
+D:\QLKS\QLKhachSan\QLKhachSan\bin\Debug\EPPlus.xml
+D:\QLKS\QLKhachSan\QLKhachSan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_hoadon.resources
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CopyComplete
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_tkphong.resources
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_tkdichvu.resources
+D:\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_tkchung.resources
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.pdb
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\EPPlus.dll
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\EPPlus.Interfaces.dll
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\EPPlus.System.Drawing.dll
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\System.ComponentModel.Annotations.dll
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\EPPlus.xml
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.AssemblyReference.cache
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_connect.resources
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_datphong.resources
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_dichvu.resources
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_hoadon.resources
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_khachhang.resources
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_main.resources
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_phong.resources
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_sudungphong.resources
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_thanhtoan.resources
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_tkchung.resources
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_tkdichvu.resources
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.Properties.Resources.resources
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_tkphong.resources
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.GenerateResource.cache
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CoreCompileInputs.cache
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CopyComplete
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.exe
+D:\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.pdb
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.pdb
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\EPPlus.dll
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\EPPlus.Interfaces.dll
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\EPPlus.System.Drawing.dll
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\EPPlus.xml
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.AssemblyReference.cache
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_connect.resources
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_datphong.resources
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_dichvu.resources
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_hoadon.resources
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_khachhang.resources
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_main.resources
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_phong.resources
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_sudungphong.resources
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_thanhtoan.resources
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_tkchung.resources
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_tkdichvu.resources
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.Properties.Resources.resources
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.fr_tkphong.resources
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.GenerateResource.cache
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CoreCompileInputs.cache
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CopyComplete
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.exe
+D:\Dữ liệu của Khang\DA1 FTF\QLKS\QLKS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.pdb
