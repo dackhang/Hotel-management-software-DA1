@@ -1,1 +1,2 @@
 - Phần mềm quản lý khách sạn cơ bản
+- Ngôn ngữ sử dụng C#
