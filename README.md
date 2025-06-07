@@ -1,2 +1,1 @@
-- Phần mềm quản lý khách sạn cơ bản BTL 1
-- Ngôn ngữ sử dụng C#
+- Phần mềm quản lý khách sạn cơ bản
